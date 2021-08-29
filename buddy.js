@@ -20,4 +20,4 @@ const displayUser = (data) => {
         buddyContainer.appendChild(div);
     }
 }
-
+loadUser();
